@@ -1,0 +1,3 @@
+openssl pkcs12 -in supervisor.p12 -nokeys -passin pass:'' -nomacver
+
+openssl pkcs12 -in supervisor.p12 -nocerts -passin pass:'NUMERO_DE_SERIE' -nodes -out chave_supervisor.pem

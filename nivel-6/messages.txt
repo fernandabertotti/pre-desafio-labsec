@@ -1,0 +1,11 @@
+message_01: A Arasaka apostou em criptografia pós-quântica, mas esqueceu que protocolo forte não sobrevive a operador
+        descuidado.
+message_02: Um esquema de Lamport deveria morrer após um único uso; aqui, ele foi explorado até virar evidência.
+message_03: Cada despacho assinado arrancou mais um fragmento do segredo que protegia o cofre de contingência.
+message_04: O sistema de auditoria preservou a chave pública, mas foram as assinaturas repetidas que condenaram a chave privada.
+message_05: Em Night City, até a tecnologia pensada para resistir ao futuro cai diante da velha preguiça corporativa.
+message_06: Os executivos da Arasaka confiaram no rótulo “hash-based” sem entender o preço operacional dessa escolha.
+message_07: Dez mensagens bastaram para transformar um mecanismo one-time em uma autópsia criptográfica completa.
+message_08: O cofre não foi quebrado por força bruta, mas pela reincidência metódica de um erro que jamais deveria ocorrer.
+message_09: Onde a Arasaka via redundância de emergência, você enxerga vazamento cumulativo de material secreto.
+message_10: A falha não está no hash, nem na matemática: está na decisão humana de reutilizar o que deveria ser efêmero.
